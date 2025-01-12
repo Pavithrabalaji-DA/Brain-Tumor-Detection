@@ -13,7 +13,7 @@ This is a web application built using Flask for detecting brain tumors from MRI 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/crazykaran/brain-tumor-detection-app.git
+    git clone https://github.com/your-username/brain-tumor-detection-app.git
     ```
 
 2. Navigate to the project directory:
@@ -22,7 +22,7 @@ This is a web application built using Flask for detecting brain tumors from MRI 
     cd brain-tumor-detection-app
     ```
 
-3. Install and create virtual environment:
+3. Install and create a virtual environment:
 
     ```bash
     pip install virtualenv
@@ -62,10 +62,27 @@ This is a web application built using Flask for detecting brain tumors from MRI 
 - Flask: Web framework for Python.
 - Keras: Deep learning library.
 - TensorFlow: Machine learning library.
-  
+
+## Screenshots
+
+### Home Page
+![Home Page](![Screenshot (245)](https://github.com/user-attachments/assets/c16af5d7-cf8c-4ebc-917d-b83dcc6a4db2)
+)
+
+### Upload Page
+![Upload Page](![Screenshot (246)](https://github.com/user-attachments/assets/507149f4-14d6-4e2f-8f31-903893163b90)
+)
+
+### Results Page
+![Results Page](path/to/results-screenshot.png)
+
+Replace `path/to/your-screenshot` with the actual paths to the screenshots in your repository.
 
 ## Contributing
 
 Contributions are welcome! Please create a pull request with your changes.
 
+## Author
 
+Developed by [Your Name](https://github.com/your-username).  
+Find more of my work on my GitHub profile: [https://github.com/your-username](https://github.com/your-username).
