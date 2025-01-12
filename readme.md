@@ -44,7 +44,7 @@ This is a web application built using Flask for detecting brain tumors from MRI 
     python app.py
     ```
 
-2. Open your web browser and navigate to [http://localhost:5000](http://localhost:5000).
+2. Open your web browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 3. Upload an MRI image of the brain using the provided form.
 
@@ -62,23 +62,10 @@ This is a web application built using Flask for detecting brain tumors from MRI 
 - Flask: Web framework for Python.
 - Keras: Deep learning library.
 - TensorFlow: Machine learning library.
+  
 
 ## Contributing
 
 Contributions are welcome! Please create a pull request with your changes.
 
-## Screenshots
 
-![Preview 1](static/images/preview1.png)*Landing Page*
-
-![Preview 2](static/images/preview2.png)*Uploaded a image*
-
-![Preview 3](static/images/preview3.png)*Brain tumer detected*
-
-![Preview 4](static/images/preview4.png)*No Brain Tumer Detected*
-
-![Preview 5](static/images/preview5.png)*No file selected*
-
-
-## Deployment
-[Brain Tumer Detection App](https://brain-tumor-detection-app.onrender.com/)
