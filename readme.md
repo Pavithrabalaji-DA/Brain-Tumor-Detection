@@ -85,5 +85,5 @@ Contributions are welcome! Please create a pull request with your changes.
 
 ## Author
 
-Developed by [Your Name](https://github.com/Pavithrabalaji-DA).  
+Developed by [Pavithra](https://github.com/Pavithrabalaji-DA).  
 Find more of my work on my GitHub profile: [https://github.com/Pavithrabalaji-DA](https://github.com/Pavithrabalaji-DA).
