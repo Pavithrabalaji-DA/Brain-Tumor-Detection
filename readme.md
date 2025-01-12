@@ -74,7 +74,8 @@ This is a web application built using Flask for detecting brain tumors from MRI 
 )
 
 ### Results Page
-![Results Page](path/to/results-screenshot.png)
+![Results Page](![Screenshot (247)](https://github.com/user-attachments/assets/0d1f2561-d867-45bd-a23f-05e4b7f4cb01)
+)
 
 Replace `path/to/your-screenshot` with the actual paths to the screenshots in your repository.
 
@@ -84,5 +85,5 @@ Contributions are welcome! Please create a pull request with your changes.
 
 ## Author
 
-Developed by [Your Name](https://github.com/your-username).  
-Find more of my work on my GitHub profile: [https://github.com/your-username](https://github.com/your-username).
+Developed by [Your Name](https://github.com/Pavithrabalaji-DA).  
+Find more of my work on my GitHub profile: [https://github.com/Pavithrabalaji-DA](https://github.com/Pavithrabalaji-DA).
