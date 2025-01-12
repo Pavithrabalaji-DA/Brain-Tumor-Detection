@@ -13,7 +13,7 @@ This is a web application built using Flask for detecting brain tumors from MRI 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/brain-tumor-detection-app.git
+    git clone https://github.com/Pavithrabalaji-DA/brain-tumor-detection-app.git
     ```
 
 2. Navigate to the project directory:
